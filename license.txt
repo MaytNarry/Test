@@ -1,0 +1,11 @@
+Model Information:
+* title:	[XYZ Coursework] Evil Well
+* source:	https://sketchfab.com/3d-models/xyz-coursework-evil-well-e3eb238d059c4141868104de5b7df665
+* author:	Kitt Heinz (https://sketchfab.com/disk43d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[XYZ Coursework] Evil Well" (https://sketchfab.com/3d-models/xyz-coursework-evil-well-e3eb238d059c4141868104de5b7df665) by Kitt Heinz (https://sketchfab.com/disk43d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
